@@ -1,12 +1,6 @@
 ## About the project
 This project applies Machine Learning algorithms (Decision Tree & K-Nearest Neighbors) on the Titanic dataset to predict passenger survival. It involves data preprocessing, feature encoding, model training, evaluation, and visualization.
 
-### Technologies 
-•	Python
-•	Pandas, NumPy (Data Handling)
-•	Matplotlib, Seaborn (Visualization)
-•	Scikit-learn (Machine Learning Models)
-
 ### Project Workflow
 1.	Data Preprocessing
 
